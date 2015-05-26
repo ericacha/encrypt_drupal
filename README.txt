@@ -1,3 +1,22 @@
+SHIFT CIPHER
+
+By Erica Cha  | May 23rd, 2015
+
+Encodes the phrase.
+
+Setup Instructions
+------------------
+
+1. Git glone https://github.com/ericacha/encrypt_drupal.git
+2. Sign into MAMP and connect to project folder
+3. Go to http://localhost:8888/MAMP/
+4. Click on Tools/phpMyAdmin
+5. Click Import
+6. Database name: erica_cipher
+7. Username: epicodus  | Password: epicodus
+
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
